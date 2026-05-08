@@ -59,7 +59,8 @@ A categorized list of essential tools for QA engineers involved in manual testin
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/) – Built-in browser tools for inspecting and debugging.  
 - [WAVE](https://wave.webaim.org) / [axe DevTools](https://www.deque.com/axe/devtools/) – Accessibility testing.  
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) – Performance, accessibility, and SEO audits.  
-
+- [HttpMaster](https://www.httpmaster.net/) – Free desktop tool for HTTP testing and debugging.
+  
 </br>
 
 ## Contributing
